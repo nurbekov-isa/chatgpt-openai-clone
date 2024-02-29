@@ -1,4 +1,4 @@
-# ChatGPT Open AI with React Js / Next.js
+# ChatGPT with React Js / Next.js
 
 ## Mobile Responsive
 
